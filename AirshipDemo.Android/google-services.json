@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23561614873",
+    "project_id": "airshipdemo-3bedb",
+    "storage_bucket": "airshipdemo-3bedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23561614873:android:e50705798168c385b7dc88",
+        "android_client_info": {
+          "package_name": "Airship_Demo.Droid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23561614873-lobohpt2vjb6u9ov7dr9tlrv94h3vsdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDytCQCEHQCXEzdY-Mof2FejVrwDS7YsgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23561614873-lobohpt2vjb6u9ov7dr9tlrv94h3vsdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
